@@ -1,0 +1,28 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css");
+
+.cst-btn {
+  border-radius: 20px;
+  background-color: #34d186;
+  color: white;
+  margin: 10px;
+  border: none;
+}
+
+.space {
+  padding-right: 20px;
+}
+
+.cst-btn:hover {
+  background-color: #34d1859c;
+  color: white;
+  box-shadow: #34d186;
+}
+
+.nav-wrapper {
+  color: white;
+}
+
+.cst-links {
+  color: red;
+  font-size: 1rem;
+}
